@@ -1,0 +1,3 @@
+[submodule "TargetLynx_Translator_Legacy"]
+	path = TargetLynx_Translator_Legacy
+	url = https://github.com/GND96/TargetLynx_Translator_Legacy.git
